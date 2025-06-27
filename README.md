@@ -8,10 +8,8 @@
 ---
 
 ### 🔥 About Me
-
-- 🧠 Final year **ALX Software Engineering** student (graduating in 2025)  
-- 🛠️ Building full-stack apps with **React**, **Node.js**, **Express**, and **MongoDB**  
-- 📚 Currently working on a **Book Review App** with Google Books API integration  
+  
+- 🛠️ Building full-stack apps with **React**, **Node.js**, **Express**, and **MongoDB**    
 - 🌍 originally from **Morocco**  
 - 🏋️ CrossFit lover — pushing limits in and out of code  
 
