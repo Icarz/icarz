@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Future sotware Engineer</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | Sotware Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Web+Dev+on+a+Mission;React%2C+Node%2C+MongoDB+Lover;CrossFit+Fan+%F0%9F%8F%8B%EF%B8%8F;Building+Real+World+Projects&center=true&width=500&height=45">
