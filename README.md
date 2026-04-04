@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Software Engineer</h3>
+<h1 align="center">Mohammed Rerhaye</h1>
+<h3 align="center">Full-Stack Developer · MERN Stack · Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Web+Dev+on+a+Mission;React%2C+Node%2C+MongoDB+Lover;CrossFit+Fan+%F0%9F%8F%8B%EF%B8%8F;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+New+Opportunities&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 🔥 About Me
-  
-- 🛠️ Building full-stack apps with **React**, **Node.js**, **Express**, and **MongoDB**    
-- 🌍 originally from **Morocco**  
-- 🏋️ CrossFit lover — pushing limits in and out of code  
+### About Me
+
+I'm a full-stack developer specializing in the **MERN stack**, focused on building scalable, maintainable, and user-centered web applications. I'm passionate about clean architecture, performance, and continuously improving my craft.
+
+- 🔭 Currently developing full-stack projects with **React**, **Node.js**, **Express**, and **MongoDB**
+- 🌍 Based in **Morocco**
+- 📖 Committed to continuous learning and shipping production-ready code
+- 🤝 Open to collaboration, freelance work, and new opportunities
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -30,13 +33,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icarz&show_icons=true&theme=tokyonight" alt="Mohammed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icarz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=icarz&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=icarz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarz&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -44,20 +47,13 @@
 
 ---
 
-### 📫 Let’s Connect
+### Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/mohammed-rerhaye-356197125/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Mr.rghay@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-</p>
-
----
-
-<p align="center">
-  💻 Fueled by coffee, ambition, and family 💙  
 </p>
